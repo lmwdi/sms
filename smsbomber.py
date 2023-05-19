@@ -111,7 +111,7 @@ def main():
         print('Error!')
         sys.exit() 
 
-    print('/n')
+    print(' ')
     print('💙!Good Luck!💙')
     sleep(2)
 
