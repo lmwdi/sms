@@ -108,6 +108,7 @@ def main():
         os.system('clear')
         sys.exit()   
     else:
+        print('') 
         print('Error!')
         sys.exit() 
 
