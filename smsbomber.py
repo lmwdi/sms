@@ -109,15 +109,12 @@ def main():
         sys.exit()   
     else:
         print('Error!')
-    while True:
+        sys.exit()
+   
 
-    main()
 
-    answer = input('Do you want to continue? (y/n): ')
 
-    if answer.lower() == 'n':
 
-        break
 
     print(' ')
     print('💙!Good Luck!💙')
