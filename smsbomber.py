@@ -111,7 +111,7 @@ def main():
         print('Error!')
         sys.exit() 
 
-    print('Good Luck!')
+    print('💙!Good Luck!💙')
     sleep(2)
 
 if __name__ == '__main__':
