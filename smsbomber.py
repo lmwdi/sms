@@ -108,10 +108,10 @@ def main():
         os.system('clear')
         sys.exit()   
     else:
-        print('') 
         print('Error!')
         sys.exit() 
 
+    print('') /n
     print('💙!Good Luck!💙')
     sleep(2)
 
